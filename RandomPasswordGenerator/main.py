@@ -10,7 +10,17 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
+def print_message(message):
+    print(message)
+
+
+def print_congrats(message):
+    print(message)
+
+
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('Rohan')
+    print_message('First Pycharm project')
+    print_congrats('Congratulations!!')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
