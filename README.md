@@ -22,5 +22,5 @@ Each subdirectory contains its own README or usage notes. Browse the folders in 
 - Contributions, bug reports, and improvements are welcome. Please open an issue or submit a pull request with a clear description of changes.
 
 ## License
-This repository does not include a license file. Add a `LICENSE` if you wish to specify terms for reuse.
+This repository includes a `LICENSE` file. See the `LICENSE` file for the repository's licensing terms.
 
